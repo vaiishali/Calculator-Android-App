@@ -1,7 +1,7 @@
 # Calculator-Android-App
 **User Manual for Calculator:**
 
-**Introduction **
+**Introduction**
 
 The android application is a calculator programmed in Android Studio made by using Kotlin language. It displays the essential functions of a standard number calculator. That has ten mathematical keys, four operations keys, a clear button, a delete button, a decimal point key, and an equal key. There are input and output space. These are isolated even after numbers are input to see the output on the screen.
 
@@ -9,12 +9,14 @@ The android application is a calculator programmed in Android Studio made by usi
 This calculator application supports all Android mobile phones and tablets.
 
 
-**Functionalities **
+**Functionalities**
 
 Below are the arrangements of buttons displayed for calculating numerical values in the calculator application. 
 
 •	**Number Buttons:** 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 
+
 •	**Operators key:** +, -, *, / 
+
 •	**Miscellaneous buttons**: Clear (clears screen), Del (deletes last value), Decimal (.) and Equal (=) 
 These are for calculating basic mathematical expressions.
 
@@ -22,10 +24,15 @@ These are for calculating basic mathematical expressions.
 **How does it work?**
 
 •	To use the calculator, firstly user inserts the value from the number buttons to perform some form of calculation. That is done by using the operators. Then calculator takes input through the user by letting them tap the number keys on the screen. At that point, the second value is input after using the operator. 
+
 •	The Operators key like + represents an addition function, - represents a subtraction function, * represents a multiplication function, / represents division function.
+
 •	Also, the Del key is used for error rectification as it eliminates the last character from the screen.
+
 •	The Clear button clears all the values present in the application. That clears everything on the screen so the client can begin once again by inputting the values.
+
 •	For the necessary calculation, the clients can also utilize the decimal point button ( . ) to compute decimal numbers. 
+
 •	The Equal (=) button evaluates the expression and provides the user the desired result. That is seen on the output screen of the calculator. 
 
 
@@ -37,7 +44,9 @@ The accompanying screenshots display the various functionalities of the differen
 The pictures show the passive screen display and examples of mathematical operations like addition, subtraction, multiplication, and division.
 
 
-**Screenshots: **
+**Screenshots:**
+
+
 
  
 
